@@ -25,11 +25,47 @@
 * Released as open source framework in 2005
 
 ---
+<aside class="notes">
+  2005 is when Rails really takes off.
+  -- DHH gives "How to build a blog engine in 15 minutes with Ruby on Rails"
+  -- Everyone goes bananas
+  -- Accolades to follow, including Hacker of the Year honors for DHH
+  </aside>
 
-#May 2005: FISL 6.0 Conference
+##May 2005: FISL 6.0 Conference
 
 * International Free Software Conference, Porto Alegre, Brazil
-* How to Build a Blog in 15 Minutes
+* DHH: How to Build a Blog in 15 Minutes
 * Rails popularity skyrockets
 
+---
 
+<aside class="notes">
+  Being able to build things quickly means getting it in front of your audience quickly
+  - try things out
+  - quickly find out what works and what doesn't
+  - pivot, iterate fast
+
+  Be Test Driven - don't just think your code works, _prove_ that it works
+</aside>
+
+##Keys to Rails Success
+
+* Fail Fast / Succeed Faster
+* Be More Agile (??)
+* Make Testing the Norm
+
+---
+
+<aside class="notes">
+  Community
+  - Dave Thomas makes Ruby popular in the US
+  - Still the best supported community I know
+  - Where do you fit in?
+</aside>
+
+##Keys to Rails Success
+* The Ruby Community 
+  * David Black, Dave Thomas, Chad Fowler
+  * MINASAW
+  * YOU
