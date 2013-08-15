@@ -40,6 +40,13 @@
 
 ---
 
+##DEMO
+* "Look at all the things I'm _not_ doing!"
+* "Look at all the configuration I'm _not_ writing!"
+* "It just uses ruby EVERYWHERE."
+
+---
+
 <aside class="notes">
   Being able to build things quickly means getting it in front of your audience quickly
   - try things out

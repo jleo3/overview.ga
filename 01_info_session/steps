@@ -1,0 +1,34 @@
+rails new brablog --skip-bundle
+cd brablog
+rails s // show landing page
+rails g controller Blog index
+
+echo "hi there" > app/views/blog/index.html.erb
+// show localhost:3000/blog/index
+
+rails g scaffold Post title:string 
+rake db:migrate
+// show localhost:3000/posts
+// create post -> "Hello Brazil!"
+
+rails g migration AddBodyToPost body:text
+rake db:migrate
+// edit _form.html.erb -> show body
+// edit posts_controller.rb -> white list body
+
+// show localhost:3000/posts
+// edit post -> "body of text"
+
+rails c
+// Post
+// Post.all
+
+// show github
+git init
+git add .
+git ci -m "first commit"
+
+// show heroku
+heroku create
+git push heroku master
+
