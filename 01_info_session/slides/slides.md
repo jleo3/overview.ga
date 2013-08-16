@@ -48,6 +48,40 @@
 ---
 
 <aside class="notes">
+  - as you can see things can go even faster today. 
+  - scaffolding, much of directory structure, even some help files remain
+  - Twitter Bootstrap, Rails Composer can get you up and running in style
+</aside>
+##Fast Forward to Rails 4
+
+---
+
+<aside class="notes">
+  - DHH didn't have GitHub in 2005. That came along in 2008. 
+  - Chris Wanstrath, PJ Hyett, and Tom Preston-Werner
+  - A tool that helps ppl collaborate in previously unheard-of ways
+  - Build an app in 15 minutes, share it in minutes!
+  - (DEMO)
+</aside>
+
+##GitHub
+
+---
+
+<aside class="notes">
+ - At about the same time, actually in 2007, Heroku was formed
+ - James Lindenbaum, Adam Wiggins, and Orion Henry
+ - Heroku's first job was to host Ruby on Rails applications
+ - take DHH's demo and put it on the World Wide Web easier than ever
+ - same as GitHub and Rails, they make things faster, easier, more accessible
+ - Build an app in 15 minutes, host it in minutes!
+ - (DEMO)
+</aside>
+
+##Heroku
+
+---
+<aside class="notes">
   Being able to build things quickly means getting it in front of your audience quickly
   - try things out
   - quickly find out what works and what doesn't

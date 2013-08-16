@@ -1,34 +1,33 @@
-rails new brablog --skip-bundle
+rails new brablog --skip-bundle --database=postgresql
 cd brablog
 rails s // show landing page
 rails g controller Blog index
 
-echo "hi there" > app/views/blog/index.html.erb
+echo "hi, potential GA students" > app/views/blog/index.html.erb
 // show localhost:3000/blog/index
 
-rails g scaffold Post title:string 
+rails g scaffold Post title:string body:text
 rake db:migrate
 // show localhost:3000/posts
 // create post -> "Hello Brazil!"
 
-rails g migration AddBodyToPost body:text
-rake db:migrate
-// edit _form.html.erb -> show body
-// edit posts_controller.rb -> white list body
+subl . &
+// "It just uses ruby EVERYWHERE."
 
-// show localhost:3000/posts
-// edit post -> "body of text"
-
-rails c
-// Post
-// Post.all
 
 // show github
 git init
 git add .
 git ci -m "first commit"
+// create a repo
+git add origin ...
+git push -u origin master
+// refresh repo page
+// navigate to code
+// anyone can see this, fork it, make suggestions, file issues
 
 // show heroku
 heroku create
 git push heroku master
+// while that's happening, show Heroku dashboard
 
