@@ -1,9 +1,12 @@
 rails new brablog --skip-bundle --database=postgresql
+cp database.yml brablog/config
 cd brablog
+
 rails s // show landing page
 rails g controller Blog index
 
-echo "hi, potential GA students" > app/views/blog/index.html.erb
+subl . &
+"hi, potential GA students" > app/views/blog/index.html.erb
 // show localhost:3000/blog/index
 
 rails g scaffold Post title:string body:text
@@ -11,7 +14,6 @@ rake db:migrate
 // show localhost:3000/posts
 // create post -> "Hello Brazil!"
 
-subl . &
 // "It just uses ruby EVERYWHERE."
 
 
@@ -20,7 +22,7 @@ git init
 git add .
 git ci -m "first commit"
 // create a repo
-git add origin ...
+git remote add origin ...
 git push -u origin master
 // refresh repo page
 // navigate to code
@@ -29,5 +31,5 @@ git push -u origin master
 // show heroku
 heroku create
 git push heroku master
-// while that's happening, show Heroku dashboard
+// while that's happening, continue with slides
 
