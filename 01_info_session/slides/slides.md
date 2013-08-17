@@ -57,7 +57,7 @@
   - Twitter Bootstrap, Rails Composer can get you up and running in style
 </aside>
 
-![Rails4](../../assets/rails4.png)
+![Rails4](../../assets/rails4a.png)
 
 ##Fast Forward to Rails 4
 
