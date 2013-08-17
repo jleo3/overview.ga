@@ -98,7 +98,7 @@
   Be Test Driven - don't just think your code works, _prove_ that it works
 </aside>
 
-![Rails](../../assets/ruby.png)
+![Ruby](../../assets/ruby.png)
 
 ##Keys to Rails Success
 
@@ -116,7 +116,7 @@
   - Only you can answer; if you want in, I can help
 </aside>
 
-![Rails](../../assets/rails_love.png)
+![MINASAW](../../assets/ruby_img.png)
 
 #Keys to Rails Success
 
