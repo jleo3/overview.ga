@@ -1,4 +1,4 @@
-<div style="float: left"><img src="../../assets/me/scary_cactus.jpg" /></div>
+<div style="float: left"><img src="../../assets/scary_cactus.jpg" /></div>
 <div style="float: right"><img src="https://github.com/generalassembly/ga-ruby-on-rails-for-devs/raw/master/images/ga.png" /></div>
 
 #BEWD - Back End Web Development
@@ -11,6 +11,7 @@
 
 ---
 
+![Rails](../../assets/rails.jpg)
 #Why Rails?
 
 ---
@@ -18,6 +19,7 @@
   While building Basecamp for 37Signals, DHH spotted an opportunity to extract a web development framework for Ruby. He did this in 2004 and made the source code available to the public in 2005.
 </aside>
 
+![DHH](../../assets/dhh.jpeg)
 #DHH
 
 * David Heinemeier Hansson, creator of Rails
@@ -32,6 +34,7 @@
   -- Accolades to follow, including Hacker of the Year honors for DHH
   </aside>
 
+![FISL](../../assets/fisl.jpeg)
 ##May 2005: FISL 6.0 Conference
 
 * International Free Software Conference, Porto Alegre, Brazil
@@ -40,6 +43,7 @@
 
 ---
 
+![2005](../../assets/2005.jpg)
 ##DEMO
 * "Look at all the things I'm _not_ doing!"
 * "Look at all the configuration I'm _not_ writing!"
@@ -52,6 +56,9 @@
   - scaffolding, much of directory structure, even some help files remain
   - Twitter Bootstrap, Rails Composer can get you up and running in style
 </aside>
+
+![Rails4](../../assets/rails4.png)
+
 ##Fast Forward to Rails 4
 
 ---
@@ -64,6 +71,7 @@
   - (DEMO)
 </aside>
 
+![GitHub](../../assets/github.png)
 ##GitHub
 
 ---
@@ -78,7 +86,7 @@
  - (DEMO)
 </aside>
 
-##Heroku
+![Heroku](../../assets/heroku.jpg)
 
 ---
 <aside class="notes">
@@ -90,23 +98,29 @@
   Be Test Driven - don't just think your code works, _prove_ that it works
 </aside>
 
+![Rails](../../assets/ruby.png)
+
 ##Keys to Rails Success
 
+* Ruby!
 * Fail Fast / Succeed Faster
 * Be More Agile (??)
 * Make Testing the Norm
 
 ---
-
 <aside class="notes">
   Community
   - Dave Thomas makes Ruby popular in the US
   - Still the best supported community I know
   - Where do you fit in?
+  - Only you can answer; if you want in, I can help
 </aside>
 
-##Keys to Rails Success
-* The Ruby Community 
+![Rails](../../assets/rails_love.png)
+
+#Keys to Rails Success
+
+  * The Ruby Community 
   * David Black, Dave Thomas, Chad Fowler
   * MINASAW
   * YOU
