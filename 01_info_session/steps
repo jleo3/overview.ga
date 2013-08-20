@@ -28,8 +28,9 @@ git push -u origin master
 // navigate to code
 // anyone can see this, fork it, make suggestions, file issues
 
-// show heroku
 heroku create
 git push heroku master
+// show heroku - getting started
+// web hosting is _very_ complex. Heroku does a herculean job by making this simple
 // while that's happening, continue with slides
 

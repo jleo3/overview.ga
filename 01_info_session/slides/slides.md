@@ -114,15 +114,17 @@
   - MINASWAN - Matz, creator of Ruby
   - Dave Thomas makes Ruby popular in the US
   - Where do you fit in?
-  - Only you can answer; if you want in, I can help
+  - Only you can answer; 
+  - This is exciting, cutting edge, future of application development
+  - If you want to be a part of it, I can help
 </aside>
 
-![MINASAW](../../assets/ruby_img.png)
+![MINISWAN](../../assets/ruby_img.png)
 
 #Keys to Rails Success
 
   * Ruby!
   * The Ruby Community 
+  * MINASWAN
   * David Black, Dave Thomas, Chad Fowler
-  * MINASAW
   * YOU
