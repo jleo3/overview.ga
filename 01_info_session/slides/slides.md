@@ -6,8 +6,8 @@
 ###Joe Leo
 
 * Associate Vice President, Credit Suisse
-* Instructor, General Assembly
-* Rapper, Retired
+* www.TestDrivenDomination.com
+* Twitter / GitHub / LinkedIn: @jleo3
 
 ---
 
@@ -30,8 +30,9 @@
 <aside class="notes">
   2005 is when Rails really takes off.
   -- DHH gives "How to build a blog engine in 15 minutes with Ruby on Rails"
-  -- Everyone goes bananas
-  -- Accolades to follow, including Hacker of the Year honors for DHH
+  -- Available on YouTube - interesting history lesson
+  -- Everyone goes bananas - fast, sleek, uses this great looking language - Ruby
+  -- Accolades to follow, including Hacker of the Year honors from Google, O'Reilly
   </aside>
 
 ![FISL](../../assets/fisl.jpeg)
@@ -52,6 +53,7 @@
 ---
 
 <aside class="notes">
+  - David went on to show testing, and making the blog better looking
   - as you can see things can go even faster today. 
   - scaffolding, much of directory structure, even some help files remain
   - Twitter Bootstrap, Rails Composer can get you up and running in style
@@ -94,24 +96,23 @@
   - try things out
   - quickly find out what works and what doesn't
   - pivot, iterate fast
-
-  Be Test Driven - don't just think your code works, _prove_ that it works
+  - the reason there are so many startups, and ppl fund what's basically just an idea 
+  - developers, using these tools, can go from idea to working application in a snap
 </aside>
 
 ![Ruby](../../assets/ruby.png)
 
 ##Keys to Rails Success
 
-* Ruby!
+* Iterate with your customers
 * Fail Fast / Succeed Faster
-* Be More Agile (??)
-* Make Testing the Norm
 
 ---
 <aside class="notes">
   Community
+  - Ruby is a beautiful language with the most active, supportive community, likely in history
+  - MINASWAN - Matz, creator of Ruby
   - Dave Thomas makes Ruby popular in the US
-  - Still the best supported community I know
   - Where do you fit in?
   - Only you can answer; if you want in, I can help
 </aside>
@@ -120,6 +121,7 @@
 
 #Keys to Rails Success
 
+  * Ruby!
   * The Ruby Community 
   * David Black, Dave Thomas, Chad Fowler
   * MINASAW
