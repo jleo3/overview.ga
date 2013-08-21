@@ -31,6 +31,8 @@ git push -u origin master
 heroku create
 git push heroku master
 // show heroku - getting started
-// web hosting is _very_ complex. Heroku does a herculean job by making this simple
+// web hosting is _very_ complex. 
+// Heroku takes this Herculean task and makes it as simple as 2 commands
+// It's an incredible piece of technology, done in the name of Rails
 // while that's happening, continue with slides
 
