@@ -3,10 +3,15 @@ SLIDE 2: Charmaine
 - I've had the pleasure of working with her for about a month
 - Her utmost priority is GA students
 - Makes me feel right at home
+- I recommend connecting with her
 
 SLIDE 5: About
 
-- best places for learning software development today
+- among the best places for learning software development today
+- including every institution of higher learning
+- key is in the "creators"
+- learning is hands-on; you won't leave without knowing how to build software
+- the reason you'll know is because you will have done it
 
 SLIDE 6: Me
 
@@ -14,16 +19,20 @@ SLIDE 6: Me
 - lots of different teams
 - lots of types of development
 - Ruby on Rails has been the most satisfying
-- Ruby Community makes me want to give back
+- Being a part of the Ruby Community is so great that it makes me want to give back
 
 SLIDE 8: site creation
 
+- several industry terms, maybe your familiar maybe not
 - Development fits into all of these places
-- It takes different skills, developers to build a web application
+- It takes different skills, some cases developers to build a web application
 
-SLIDE 10: FE vs BE
+SLIDE 10: What is a web developer?
 
-- People ask me what I do, bank website example
+- two types: everyone should be both
+- be a generalist. A specialist can help to solve 1 kind of problem; 
+- a generalist may not be as good at that one problem but she can solve that problem and any other problem that comes her way.
+- makes for fuller education; better career
 
 SLIDE 11: What Can I Expect to Learn?
 
