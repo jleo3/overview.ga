@@ -1,5 +1,8 @@
 SLIDE 2: Charmaine
-
+- Thanks: Meredith and Rashad - setting up
+          Jessica for advice and putting together curriculum
+          Charmaine
+          Everyone for being here
 - I've had the pleasure of working with her for about a month
 - Her utmost priority is GA students
 - Makes me feel right at home
@@ -26,14 +29,17 @@ SLIDE 8: site creation
 
 - several industry terms, maybe your familiar maybe not
 - Development fits into all of these places
+- need developer mindset to do great UX
+- design entails development and certainly IA does as well
 - It takes different skills, some cases developers to build a web application
 
 SLIDE 10: What is a web developer?
 
-- two types: everyone should be both
+- two types: really we just call them developers
+- everyone should be both
 - be a generalist. A specialist can help to solve 1 kind of problem; 
 - a generalist may not be as good at that one problem but she can solve that problem and any other problem that comes her way.
-- makes for fuller education; better career
+- makes for better education; better career
 
 SLIDE 11: What Can I Expect to Learn?
 

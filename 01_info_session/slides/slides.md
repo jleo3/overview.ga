@@ -44,6 +44,11 @@
 
 ---
 
+<aside class="notes">
+  -- take you back to 2005
+  -- perform the same steps that DHH did in his talk
+</aside>
+
 ![2005](../../assets/2005.jpg)
 ##DEMO
 * "Look at all the things I'm _not_ doing!"
@@ -54,8 +59,7 @@
 
 <aside class="notes">
   - David went on to show testing, and making the blog better looking
-  - as you can see things can go even faster today. 
-  - scaffolding, much of directory structure, even some help files remain
+  - but lots of scaffolding, much of directory structure, even some help files remain
   - Twitter Bootstrap, Rails Composer can get you up and running in style
 </aside>
 
@@ -82,6 +86,7 @@
  - At about the same time, actually in 2007, Heroku was formed
  - James Lindenbaum, Adam Wiggins, and Orion Henry
  - Heroku's first job was to host Ruby on Rails applications
+ - Bought for 212mm, started with RoR 
  - take DHH's demo and put it on the World Wide Web easier than ever
  - same as GitHub and Rails, they make things faster, easier, more accessible
  - Build an app in 15 minutes, host it in minutes!
@@ -112,10 +117,13 @@
   Community
   - Ruby is a beautiful language with the most active, supportive community, likely in history
   - MINASWAN - Matz, creator of Ruby
-  - Dave Thomas makes Ruby popular in the US
+  - Matz is a really nice guy - gets involved, tries to grow his language
+  - Dave Thomas, Chad Fowler bring Ruby to US, make it more popular
+  - Sandi Metz, James Edward Gray who carry the torch
+  - This class is one way that I fit in
   - Where do you fit in?
   - Only you can answer; 
-  - This is exciting, cutting edge, future of application development
+  - I'll say this: We're talking about something exciting, cutting edge, and the present and future of application development
   - If you want to be a part of it, I can help
 </aside>
 
@@ -127,4 +135,5 @@
   * The Ruby Community 
   * MINASWAN
   * David Black, Dave Thomas, Chad Fowler
+  * Sandi Metz, James Edward Gray
   * YOU

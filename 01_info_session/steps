@@ -27,6 +27,8 @@ git push -u origin master
 // refresh repo page
 // navigate to code
 // anyone can see this, fork it, make suggestions, file issues
+// all of a sudden every open source project is accessible
+// everyone and anyone can get involved
 
 heroku create
 git push heroku master
